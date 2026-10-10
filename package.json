@@ -1,9 +1,9 @@
 {
-  "name": "job-autofill-extension",
+  "name": "prefillo-extension",
   "private": true,
-  "version": "1.1.7",
+  "version": "0.1.0",
   "type": "module",
-  "description": "Autofill job applications on Greenhouse, Lever & Workday and draft AI answers and tailored cover letters from your profile.",
+  "description": "Prefillo review-first job application autofill",
   "license": "MIT",
   "author": "Ritika Shrestha",
   "repository": {
